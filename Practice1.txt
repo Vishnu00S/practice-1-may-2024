@@ -7,3 +7,6 @@ text 2
 text 3
 
 Update 1 line for the practice. from git hub page edit option
+
+Adding new line for practice- for new branch created
+new branch name : Practice1branch
